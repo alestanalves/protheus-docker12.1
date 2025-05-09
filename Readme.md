@@ -1,4 +1,4 @@
-# Projeto para Ambiente de Teste Protheus 12.1.2210 no Docker
+# Projeto para Ambiente de Teste Protheus 12.1.2210 no Docker (Windows)
 Ambiente de #TESTE do Protheus 12 da TOTVS em um ambiente Docker.
 
 # Pré-requisitos
