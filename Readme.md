@@ -18,7 +18,7 @@ Siga os seguintes passos para instalar e configurar o ambiente de teste do Proth
 1.	Clone este projeto em seu sistema
 2.	Copie a pasta "totvs" disponibilizada no link https://1drv.ms/u/s!AgbDqR1KI2Dfz60FFxD9_uqXQQAJfw?e=CIyfNS para dentro do diretório "dockerfiles".
 3.	Confira os arquivos com extensão .sh se o formato de quebra de linha está LF, se não estiver configure para LF pois isso causa erros na montagem dos containers.
-4.	Pelo VS Code execute a opção “composse up” com botão direito do mouse, nessa exata ordem.
+4.	Pelo VS Code execute a opção “composse up” com botão direito do mouse, nessa exata ordem. (ou utilize o terminal para o compose up normalmente, se caso nao tiver a extensao do VSCode)
   *  docker-compose.license.yml
       - Verifique se o serviço está rodando
   *  docker-compose.mssql.yml
